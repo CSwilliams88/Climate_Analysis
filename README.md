@@ -2,6 +2,7 @@
 
 ## Step 1 - Climate Analysis and Exploration
 
+![vacation.jpeg](Images/vacation.jpeg)
 
 ### Precipitation Analysis
 
